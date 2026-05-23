@@ -1,6 +1,7 @@
 🛒 Big DataMart Sales Prediction Project
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Machine%20Learning-Project-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20Analysis-EDA-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> </p>
 ----
+
 📌 Project Overview
 
 This project focuses on solving the Big DataMart Sales Prediction Problem using Python and Machine Learning techniques.
@@ -41,10 +42,15 @@ The dataset contains information related to:
 🧹 Data Cleaning & Preprocessing
 
 ✔️ Handled Missing Values
+
 ✔️ Removed Duplicate Records
+
 ✔️ Treated Outliers
+
 ✔️ Feature Encoding
+
 ✔️ Data Type Conversion
+
 ✔️ Feature Scaling
 ----
 📊 Exploratory Data Analysis (EDA)
@@ -60,6 +66,7 @@ Performed detailed EDA using different visualizations:
 - 🐍 Swarm Plot
 - 🎯 Count Plot
 - 📌 Scatter Plot
+
 Key Insights:
 - Products with higher MRP tend to generate higher sales.
 - Supermarket outlets contribute more sales compared to grocery stores.
@@ -93,9 +100,12 @@ The machine learning model successfully predicted outlet sales with good accurac
 👨‍💻 Author
 
 Himanshu Sharma
+
 📧 Email: himanshush0013@gmail.com
-🔗 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/himanshusharmafzr])
-💻 [GitHub](https://github.com)
+
+🔗 [LinkedIn]([https://www.linkedin.com/in/himanshusharmafzr])
+
+💻 [GitHub]([https://github.com](https://github.com/himanshu-fzr])
 ----
 ⭐ If You Like This Project
 
