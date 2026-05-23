@@ -1,6 +1,6 @@
 🛒 Big DataMart Sales Prediction Project
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Machine%20Learning-Project-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20Analysis-EDA-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> </p>
-----
+
 
 📌 Project Overview
 
@@ -104,7 +104,7 @@ Himanshu Sharma
 📧 Email: himanshush0013@gmail.com
 
 🔗 LinkedIn:(https://www.linkedin.com/in/himanshusharmafzr)
-💻 GitHub: Add Your GitHub Link
+💻 GitHub: (https://github.com/himanshu-fzr)
 ----
 ⭐ If You Like This Project
 
