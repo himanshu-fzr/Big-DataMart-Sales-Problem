@@ -103,9 +103,8 @@ Himanshu Sharma
 
 📧 Email: himanshush0013@gmail.com
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/himanshusharmafzr])
-
-💻 [GitHub]([https://github.com](https://github.com/himanshu-fzr])
+🔗 LinkedIn:(https://www.linkedin.com/in/himanshusharmafzr)
+💻 GitHub: Add Your GitHub Link
 ----
 ⭐ If You Like This Project
 
